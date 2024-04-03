@@ -46,6 +46,10 @@ _SIGGRAPH Asia Technical Communications, 2021_
 Taiki Watanabe, Seitaro Shinagawa, Takuya Funatomi, Akinobu Maejima, Yasuhiro Mukaigawa, Satoshi Nakamura, Hiroyuki Kubo\
 _SIGGRAPH Posters, 2023_
 
+[Learning Inclusion Matching for Animation Paint Bucket Colorization](https://github.com/ykdai/BasicPBC)\
+Yuekun Dai, Shangchen Zhou, Qinyue Li, Chongyi Li, Chen Change Loy\
+_CVPR 2024_
+
 [Deep Line Art Video Colorization with a Few References](https://arxiv.org/abs/2003.10685)\
 Min Shi, Jia-Qi Zhang, Shu-Yu Chen, Lin Gao, Yu-Kun Lai, Fang-Lue Zhang\
 
@@ -53,7 +57,10 @@ Min Shi, Jia-Qi Zhang, Shu-Yu Chen, Lin Gao, Yu-Kun Lai, Fang-Lue Zhang\
 ](https://dl.acm.org/doi/abs/10.1016/j.patcog.2023.109562)\
 Ning Wang, Muyao Niu, Zhi Dou, Zhihui Wang, Zhiyong Wang, Zhaoyan Ming, B. Liu, Hao Li
 
-## Post-Processing / Restoration
+## Post-Processing / Tools
+
+[Instance-guided Cartoon Editing with a Large-scale Dataset](https://cartoonsegmentation.github.io)\
+Jian Lin, Chengze Li, Xueting Liu, Zhongping Ge
 
 [APISR: Anime Production Inspired Real-World Anime Super-Resolution](https://arxiv.org/abs/2403.01598)\
 Boyang Wang, Fengyu Yang, Xihang Yu, Chao Zhang, Hanbin Zhao
