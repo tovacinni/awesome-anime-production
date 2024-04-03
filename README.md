@@ -29,29 +29,29 @@ Li Siyao, Tianpei Gu, Weiye Xiao, Henghui Ding, Ziwei Liu, Chen Change Loy\
 _ICCV 2023_
 
 [Efficient Interpolation of Rough Line Drawings](https://inria.hal.science/hal-04202841)
-Jiazhou Chen, Xinding Zhu, Melvin Even, Jean Basset, Pierre Bénard, Pascal Barla
+Jiazhou Chen, Xinding Zhu, Melvin Even, Jean Basset, Pierre Bénard, Pascal Barla\
 _Pacific Graphics 2023_
 
 ## Colorization (Shiage)
 
 [Graph Matching based Anime Colorization with Multiple References](https://dl.acm.org/doi/abs/10.1145/3306214.3338560)\
 Akinobu Maejima, Hiroyuki Kubo, Takuya Funatomi, Tatsuo Yotsukura, Satoshi Nakamura, Yasuhiro Mukaigawa\
-_SIGGRAPH Posters, 2019_
+_SIGGRAPH Posters 2019_
 
 [Anime Character Colorization using Few-shot Learning](https://dl.acm.org/doi/10.1145/3478512.3488604)\
 Akinobu Maejima, Hiroyuki Kubo, Seitaro Shinagawa, Takuya Funatomi, Tatsuo Yotsukura, Satoshi Nakamura, Yasuhiro Mukaigawa\
-_SIGGRAPH Asia Technical Communications, 2021_
+_SIGGRAPH Asia Technical Communications 2021_
 
 [Improved Automatic Colorization by Optimal Pre-colorization](https://dl.acm.org/doi/abs/10.1145/3588028.3603669)\
 Taiki Watanabe, Seitaro Shinagawa, Takuya Funatomi, Akinobu Maejima, Yasuhiro Mukaigawa, Satoshi Nakamura, Hiroyuki Kubo\
-_SIGGRAPH Posters, 2023_
+_SIGGRAPH Posters 2023_
 
 [Learning Inclusion Matching for Animation Paint Bucket Colorization](https://github.com/ykdai/BasicPBC)\
 Yuekun Dai, Shangchen Zhou, Qinyue Li, Chongyi Li, Chen Change Loy\
 _CVPR 2024_
 
 [Deep Line Art Video Colorization with a Few References](https://arxiv.org/abs/2003.10685)\
-Min Shi, Jia-Qi Zhang, Shu-Yu Chen, Lin Gao, Yu-Kun Lai, Fang-Lue Zhang\
+Min Shi, Jia-Qi Zhang, Shu-Yu Chen, Lin Gao, Yu-Kun Lai, Fang-Lue Zhang
 
 [Coloring Anime Line Art Videos with Transformation Region Enhancement Network
 ](https://dl.acm.org/doi/abs/10.1016/j.patcog.2023.109562)\
