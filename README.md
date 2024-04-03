@@ -59,6 +59,9 @@ Ning Wang, Muyao Niu, Zhi Dou, Zhihui Wang, Zhiyong Wang, Zhaoyan Ming, B. Liu, 
 
 ## Post-Processing / Tools
 
+[Voice Animator: Automatic Lip-Synching in Limited Animation by Audio](https://link.springer.com/chapter/10.1007/978-3-319-76270-8_12)\
+Shoichi Furukawa, Tsukasa Fukusato, Shugo Yamaguchi, and Shigeo Morishima
+
 [Instance-guided Cartoon Editing with a Large-scale Dataset](https://cartoonsegmentation.github.io)\
 Jian Lin, Chengze Li, Xueting Liu, Zhongping Ge
 
