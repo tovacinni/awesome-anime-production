@@ -16,6 +16,10 @@ _CHI 2024_
 
 ## In-Betweening (Douga)
 
+[Optical Flow Based Line Drawing Frame Interpolation Using Distance Transform to Support Inbetweenings](https://ieeexplore.ieee.org/document/8803506)\
+Rei Narita, Keigo Hirakawa, Kiyoharu Aizawa\
+_ICIP 2019_
+
 [Improving the Perceptual Quality of 2D Animation Interpolation](https://arxiv.org/abs/2111.12792)\
 Shuhong Chen, Matthias Zwicker\
 _ECCV 2022_
