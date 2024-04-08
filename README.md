@@ -28,7 +28,7 @@ _ECCV 2022_
 Li Siyao, Tianpei Gu, Weiye Xiao, Henghui Ding, Ziwei Liu, Chen Change Loy\
 _ICCV 2023_
 
-[Efficient Interpolation of Rough Line Drawings](https://inria.hal.science/hal-04202841)
+[Efficient Interpolation of Rough Line Drawings](https://inria.hal.science/hal-04202841)\
 Jiazhou Chen, Xinding Zhu, Melvin Even, Jean Basset, Pierre Bénard, Pascal Barla\
 _Pacific Graphics 2023_
 
