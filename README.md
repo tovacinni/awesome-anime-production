@@ -65,20 +65,21 @@ Min Shi, Jia-Qi Zhang, Shu-Yu Chen, Lin Gao, Yu-Kun Lai, Fang-Lue Zhang
 ](https://dl.acm.org/doi/abs/10.1016/j.patcog.2023.109562)\
 Ning Wang, Muyao Niu, Zhi Dou, Zhihui Wang, Zhiyong Wang, Zhaoyan Ming, B. Liu, Hao Li
 
-## Post-Processing / Tools
+
+## Compositing (Satsuei)
 
 [Merging and Transformation of Raster Images for Cartoon Animation](https://graphics.stanford.edu/papers/merging-sig81/)\
 Bruce Wallace\
 _SIGGRAPH 1981_
 
-[Voice Animator: Automatic Lip-Synching in Limited Animation by Audio](https://link.springer.com/chapter/10.1007/978-3-319-76270-8_12)\
-Shoichi Furukawa, Tsukasa Fukusato, Shugo Yamaguchi, and Shigeo Morishima
+[Compositing Digital Images](https://graphics.pixar.com/library/Compositing/)\
+Thomas Porter, Tom Duff\
+_SIGGRAPH 1984_\
+The original 'pre-multiplied alpha' paper!
 
-[Instance-guided Cartoon Editing with a Large-scale Dataset](https://cartoonsegmentation.github.io)\
-Jian Lin, Chengze Li, Xueting Liu, Zhongping Ge
+[Digital Compositing Derivations (CS 248)](https://graphics.stanford.edu/courses/cs248-01/comp/comp.html)\
+Marc Levoy
 
-[APISR: Anime Production Inspired Real-World Anime Super-Resolution](https://arxiv.org/abs/2403.01598)\
-Boyang Wang, Fengyu Yang, Xihang Yu, Chao Zhang, Hanbin Zhao
 
 ## Systems
 
@@ -91,3 +92,14 @@ Computer Animation Production System (CAPS)\
 [Executive Summary by Alvy Ray Smith](http://alvyray.com/DigitalLight/CAPS_ExecSummary_AlvyToPixar_4May86.pdf)
 
 
+
+## Tools
+
+[Voice Animator: Automatic Lip-Synching in Limited Animation by Audio](https://link.springer.com/chapter/10.1007/978-3-319-76270-8_12)\
+Shoichi Furukawa, Tsukasa Fukusato, Shugo Yamaguchi, and Shigeo Morishima
+
+[Instance-guided Cartoon Editing with a Large-scale Dataset](https://cartoonsegmentation.github.io)\
+Jian Lin, Chengze Li, Xueting Liu, Zhongping Ge
+
+[APISR: Anime Production Inspired Real-World Anime Super-Resolution](https://arxiv.org/abs/2403.01598)\
+Boyang Wang, Fengyu Yang, Xihang Yu, Chao Zhang, Hanbin Zhao
