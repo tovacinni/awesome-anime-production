@@ -16,17 +16,11 @@ _CHI 2024_
 
 ## In-Betweening (Douga)
 
+### Vector In-Betweening
+
 [Inbetweening for computer animation utilizing moving point constraints](https://history.siggraph.org/learning/inbetweening-for-computer-animation-utilizing-moving-point-constraints-by-baecker-miller-and-reeves/)\
 William Reeves\
 _SIGGRAPH 1981_
-
-[Optical Flow Based Line Drawing Frame Interpolation Using Distance Transform to Support Inbetweenings](https://ieeexplore.ieee.org/document/8803506)\
-Rei Narita, Keigo Hirakawa, Kiyoharu Aizawa\
-_ICIP 2019_
-
-[Improving the Perceptual Quality of 2D Animation Interpolation](https://arxiv.org/abs/2111.12792)\
-Shuhong Chen, Matthias Zwicker\
-_ECCV 2022_
 
 [Deep Geometrized Cartoon Line Inbetweening](https://github.com/lisiyao21/AnimeInbet)\
 Li Siyao, Tianpei Gu, Weiye Xiao, Henghui Ding, Ziwei Liu, Chen Change Loy\
@@ -36,11 +30,25 @@ _ICCV 2023_
 Jiazhou Chen, Xinding Zhu, Melvin Even, Jean Basset, Pierre Bénard, Pascal Barla\
 _Pacific Graphics 2023_
 
+### Raster In-Betweening
+
+[Optical Flow Based Line Drawing Frame Interpolation Using Distance Transform to Support Inbetweenings](https://ieeexplore.ieee.org/document/8803506)\
+Rei Narita, Keigo Hirakawa, Kiyoharu Aizawa\
+_ICIP 2019_
+
+[Improving the Perceptual Quality of 2D Animation Interpolation](https://arxiv.org/abs/2111.12792)\
+Shuhong Chen, Matthias Zwicker\
+_ECCV 2022_
+
+### Raster-to-Vector + Correspondence
+
 [Joint Stroke Tracing and Correspondence for 2D Animation](https://dl.acm.org/doi/10.1145/3649890)\
 Haoran Mo, Chengying Gao, Ruomei Wang\
 _Transactions on Graphics 2024_
 
 ## Colorization (Shiage)
+
+### Colorization Systems
 
 [Graph Matching based Anime Colorization with Multiple References](https://dl.acm.org/doi/abs/10.1145/3306214.3338560)\
 Akinobu Maejima, Hiroyuki Kubo, Takuya Funatomi, Tatsuo Yotsukura, Satoshi Nakamura, Yasuhiro Mukaigawa\
@@ -65,8 +73,17 @@ Min Shi, Jia-Qi Zhang, Shu-Yu Chen, Lin Gao, Yu-Kun Lai, Fang-Lue Zhang
 ](https://dl.acm.org/doi/abs/10.1016/j.patcog.2023.109562)\
 Ning Wang, Muyao Niu, Zhi Dou, Zhihui Wang, Zhiyong Wang, Zhaoyan Ming, B. Liu, Hao Li
 
+### Colorization Tools
+
+[Area Flooding Algorithms](https://graphics.stanford.edu/papers/area-flooding-sig82course/area-flooding-sig82course.pdf)\
+Marc Levoy\
+_SIGGRAPH 1982 Course Notes_
+
+
 
 ## Compositing (Satsuei)
+
+### Raster Composition 
 
 [Merging and Transformation of Raster Images for Cartoon Animation](https://graphics.stanford.edu/papers/merging-sig81/)\
 Bruce Wallace\
@@ -91,7 +108,13 @@ Computer Animation Production System (CAPS)\
 [Proposal by Alvy Ray Smith](http://alvyray.com/DigitalLight/CAPS_Proposal_AlvyToDisney_30Jan85.pdf)\
 [Executive Summary by Alvy Ray Smith](http://alvyray.com/DigitalLight/CAPS_ExecSummary_AlvyToPixar_4May86.pdf)
 
+[Spreadsheets for Images](https://graphics.stanford.edu/papers/spreadsheets/)\
+Marc Levoy\
+_SIGGRAPH 1994_
 
+[TicTacToon: A Paperless System for Professional 2D Animation](https://dl.acm.org/doi/pdf/10.1145/218380.218417)\
+Jean-Daniel Fekete, Érick Bizouarn, Éric Cournarie, Thierry Galas, Frédéric Taillefer\
+_SIGGRAPH 1995_
 
 ## Tools
 
