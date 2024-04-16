@@ -1,8 +1,8 @@
 # Survey of Technology for Anime Production
 
-Japanese-style animation (colloquially known as 'anime') is an art form that generally involves hand-drawn frames which are organized using timesheets, which are time-series pointer-tables for frames. The word 'anime' in English communities have been semantically broadened to mean 'an art style that is reminiscent of popular art styles in Japanese manga / animation', but in this article we will refer to 'anime' as specifically 'animations created in a Japanese-style production flow'. 
+Japanese-style animation (colloquially known as 'anime') is an art form that generally involves frames that are drawn frame-by-frame and organized using timesheets, which are time-series pointer-tables for frames. The word 'anime' in English communities have been semantically broadened to mean 'an art style that is reminiscent of popular art styles in Japanese manga / animation', but in this article we will refer to 'anime' as specifically 'animations created in a Japanese-style production flow'. 
 
-Japanese anime production workflows have evolved over the years to be wonderfully complex, but technology adoption has generally been sparse. This is due to a number of different reasons, but one of them is that technology that actually suits the Japanese production workflow has generally been sparse. 
+While a large portion of the rest of the 2D animation world evolved to a rigged, _cutout_ animation style, Japanese anime productions kept the traditional frame-by-frame method of animation and have evolved in its own ways. In the midst of this, however, the adoption of technology has been relatively sparse compared to for rigged animation. This is due to a number of different reasons, but one of them is that technology that actually suits the frame-by-frame production workflow has generally been sparse.
 
 This repository aims to curate papers, talks, and blog posts which seem promising to be used inside production workflows for anime production. Eventually the long-term goal is to create a comprehensive document / paper / course to highlight opportunities and challenges for technological development for anime production.
 
@@ -67,5 +67,14 @@ Jian Lin, Chengze Li, Xueting Liu, Zhongping Ge
 
 [APISR: Anime Production Inspired Real-World Anime Super-Resolution](https://arxiv.org/abs/2403.01598)\
 Boyang Wang, Fengyu Yang, Xihang Yu, Chao Zhang, Hanbin Zhao
+
+## Systems
+
+[A Color Animation System Based on the Multiplane Technique](https://graphics.stanford.edu/papers/multiplane/)\
+Marc Levoy
+
+[Computer Animation Production System]\
+[Proposal by Alvy Ray Smith](http://alvyray.com/DigitalLight/CAPS_Proposal_AlvyToDisney_30Jan85.pdf)\
+[Executive Summary by Alvy Ray Smith](http://alvyray.com/DigitalLight/CAPS_ExecSummary_AlvyToPixar_4May86.pdf)\
 
 
