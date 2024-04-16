@@ -16,6 +16,10 @@ _CHI 2024_
 
 ## In-Betweening (Douga)
 
+[Inbetweening for computer animation utilizing moving point constraints](https://history.siggraph.org/learning/inbetweening-for-computer-animation-utilizing-moving-point-constraints-by-baecker-miller-and-reeves/)\
+William Reeves\
+_SIGGRAPH 1981_
+
 [Optical Flow Based Line Drawing Frame Interpolation Using Distance Transform to Support Inbetweenings](https://ieeexplore.ieee.org/document/8803506)\
 Rei Narita, Keigo Hirakawa, Kiyoharu Aizawa\
 _ICIP 2019_
@@ -59,6 +63,10 @@ Ning Wang, Muyao Niu, Zhi Dou, Zhihui Wang, Zhiyong Wang, Zhaoyan Ming, B. Liu, 
 
 ## Post-Processing / Tools
 
+[Merging and Transformation of Raster Images for Cartoon Animation](https://graphics.stanford.edu/papers/merging-sig81/)\
+Bruce Wallace\
+_SIGGRAPH 1981_
+
 [Voice Animator: Automatic Lip-Synching in Limited Animation by Audio](https://link.springer.com/chapter/10.1007/978-3-319-76270-8_12)\
 Shoichi Furukawa, Tsukasa Fukusato, Shugo Yamaguchi, and Shigeo Morishima
 
@@ -71,10 +79,11 @@ Boyang Wang, Fengyu Yang, Xihang Yu, Chao Zhang, Hanbin Zhao
 ## Systems
 
 [A Color Animation System Based on the Multiplane Technique](https://graphics.stanford.edu/papers/multiplane/)\
-Marc Levoy
+Marc Levoy\
+_SIGGRAPH 1977_
 
-[Computer Animation Production System]\
+Computer Animation Production System (CAPS)\
 [Proposal by Alvy Ray Smith](http://alvyray.com/DigitalLight/CAPS_Proposal_AlvyToDisney_30Jan85.pdf)\
-[Executive Summary by Alvy Ray Smith](http://alvyray.com/DigitalLight/CAPS_ExecSummary_AlvyToPixar_4May86.pdf)\
+[Executive Summary by Alvy Ray Smith](http://alvyray.com/DigitalLight/CAPS_ExecSummary_AlvyToPixar_4May86.pdf)
 
 
