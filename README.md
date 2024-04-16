@@ -36,6 +36,10 @@ _ICCV 2023_
 Jiazhou Chen, Xinding Zhu, Melvin Even, Jean Basset, Pierre Bénard, Pascal Barla\
 _Pacific Graphics 2023_
 
+[Joint Stroke Tracing and Correspondence for 2D Animation](https://dl.acm.org/doi/10.1145/3649890)\
+Haoran Mo, Chengying Gao, Ruomei Wang\
+_Transactions on Graphics 2024_
+
 ## Colorization (Shiage)
 
 [Graph Matching based Anime Colorization with Multiple References](https://dl.acm.org/doi/abs/10.1145/3306214.3338560)\
