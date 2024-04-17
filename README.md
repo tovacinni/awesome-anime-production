@@ -10,6 +10,10 @@ This is very much work in progress.
 
 ## Pre-Production
 
+[Storeoboard: Sketching Stereoscopic Storyboards](https://dl.acm.org/doi/abs/10.1145/2858036.2858079)\
+Rorik Henrikson, Bruno De Araujo, Fanny Chevalier, Karan Singh, Ravin Balakrishnan\
+_CHI 2016_
+
 [Griffith: A Storyboarding Tool Designed with Japanese Animation Professionals](https://research.archinc.jp/en/griffith/)\
 Jun Kato, Kenta Hara, Nao Hirasawa\
 _CHI 2024_
@@ -41,6 +45,10 @@ Shuhong Chen, Matthias Zwicker\
 _ECCV 2022_
 
 ### Raster-to-Vector + Correspondence
+
+[End-to-End Line Drawing Vectorization](https://ttwong12.github.io/papers/linevector/linevector.pdf)\
+Hanyuan Liu, Chengze Li, Xueting Liu, Tien-Tsin Wong\
+_AAAI 2022_
 
 [Joint Stroke Tracing and Correspondence for 2D Animation](https://dl.acm.org/doi/10.1145/3649890)\
 Haoran Mo, Chengying Gao, Ruomei Wang\
@@ -79,7 +87,10 @@ Ning Wang, Muyao Niu, Zhi Dou, Zhihui Wang, Zhiyong Wang, Zhaoyan Ming, B. Liu, 
 Marc Levoy\
 _SIGGRAPH 1982 Course Notes_
 
-
+[LazyBrush: Flexible Painting Tool for Hand-drawn Cartoons](https://dcgi.fel.cvut.cz/home/sykorad/lazybrush.html)\
+Daniel Sykora, John Dingliana, Steven Collins\
+_Eurographics 2009_\
+[TV Paint Plugin](http://lazy-brush.com)
 
 ## Compositing (Satsuei)
 
@@ -118,11 +129,27 @@ _SIGGRAPH 1995_
 
 ## Tools
 
+[SmartShadow: Artistic Shadow Drawing Tool for Line Drawings](https://lllyasviel.github.io/Style2PaintsResearch/iccv2021/index.html)\
+Lvmin Zhang, Jinyue Jiang, Yi Ji, Chunping Liu\
+_ICCV 2021_
+
+[Learning to Shadow Hand-drawn Sketches](https://cal.cs.umbc.edu/Papers/Zheng-2020-Shade/)\
+Qingyuan Zheng, Zhuoru Li, Adam W. Bargteil\
+_CVPR 2022_ 
+
+[Sprite-from-Sprite: Cartoon Animation Decomposition with Self-supervised Sprite Estimation](https://lllyasviel.github.io/GitPageToonDecompose/)\
+Lvmin Zhang, Tien-Tsin Wong, Yuxin Liu\
+_SIGGRAPH Asia 2022_
+
 [Voice Animator: Automatic Lip-Synching in Limited Animation by Audio](https://link.springer.com/chapter/10.1007/978-3-319-76270-8_12)\
-Shoichi Furukawa, Tsukasa Fukusato, Shugo Yamaguchi, and Shigeo Morishima
+Shoichi Furukawa, Tsukasa Fukusato, Shugo Yamaguchi, Shigeo Morishima
 
 [Instance-guided Cartoon Editing with a Large-scale Dataset](https://cartoonsegmentation.github.io)\
 Jian Lin, Chengze Li, Xueting Liu, Zhongping Ge
 
 [APISR: Anime Production Inspired Real-World Anime Super-Resolution](https://arxiv.org/abs/2403.01598)\
 Boyang Wang, Fengyu Yang, Xihang Yu, Chao Zhang, Hanbin Zhao
+
+## Acknowledgements
+
+Thanks to [Chenxi Liu](https://chenxil21.github.io) for helping to put together this list!
