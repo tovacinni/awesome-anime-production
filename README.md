@@ -169,6 +169,12 @@ Jian Lin, Chengze Li, Xueting Liu, Zhongping Ge
 [APISR: Anime Production Inspired Real-World Anime Super-Resolution](https://arxiv.org/abs/2403.01598)\
 Boyang Wang, Fengyu Yang, Xihang Yu, Chao Zhang, Hanbin Zhao
 
+## Inspirational
+
+[LACES: Live Authoring Through Compositing and Editing of Video Stream](http://www.cs.toronto.edu/~fchevali/fannydotnet/resources_pub/pdf/laces_chi2014.pdf)\
+Dustin Freeman, Stephanie Santosa, Fanny Chevalier, Ravin Balakrishnan, Karan Singh\
+_CHI 2014_
+
 ## Acknowledgements
 
 Thanks to [Chenxi Liu](https://chenxil21.github.io) for helping to put together this list!
