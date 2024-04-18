@@ -10,6 +10,8 @@ This is very much work in progress.
 
 ## Pre-Production
 
+### Storyboarding
+
 [Storeoboard: Sketching Stereoscopic Storyboards](https://dl.acm.org/doi/abs/10.1145/2858036.2858079)\
 Rorik Henrikson, Bruno De Araujo, Fanny Chevalier, Karan Singh, Ravin Balakrishnan\
 _CHI 2016_
@@ -17,6 +19,23 @@ _CHI 2016_
 [Griffith: A Storyboarding Tool Designed with Japanese Animation Professionals](https://research.archinc.jp/en/griffith/)\
 Jun Kato, Kenta Hara, Nao Hirasawa\
 _CHI 2024_
+
+[CollageVis: Rapid Previsualization Tool for Indie Filmmaking using Video Collages](https://ryosuzuki.org/collagevis/)\
+Hye-Young Jo, Ryo Suzuki, Yoonji Kim \
+_CHI 2024_
+
+### Script to Storyboard
+
+[Neural Storyboard Artist: Visualizing Stories with Coherent Image Sequences](https://arxiv.org/abs/1911.10460)\
+Shizhe Chen, Bei Liu, Jianlong Fu, Ruihua Song, Qin Jin, Pingping Lin, Xiaoyu Qi, Chunting Wang, Jin Zhou\
+_MM 2019_
+
+[ASAP: Auto-generating Storyboard and Previz](https://dl.acm.org/doi/abs/10.1145/3550453.3570124)\
+Hanseob Kim, Ghazanfar Ali, Bin Han, Hwangyoun Kim, Jieun Kim, Jae-In Hwang\
+_SIGGRAPH Asia 2022 Real-time Live!_
+
+[Dynamic Storyboard Generation in an Engine-based Virtual Environment for Video Production](https://dl.acm.org/doi/abs/10.1145/3550453.3570124)\
+Anyi Rao, Xuekun Jiang, Yuwei Guo, Linning Xu, Lei Yang, Libiao Jin, Dahua Lin, Bo Dai
 
 ## In-Betweening (Douga)
 
