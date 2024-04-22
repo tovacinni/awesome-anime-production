@@ -85,6 +85,10 @@ _SIGGRAPH Posters 2019_
 Akinobu Maejima, Hiroyuki Kubo, Seitaro Shinagawa, Takuya Funatomi, Tatsuo Yotsukura, Satoshi Nakamura, Yasuhiro Mukaigawa\
 _SIGGRAPH Asia Technical Communications 2021_
 
+[The Animation Transformer: Visual Correspondence via Segment Matching](https://arxiv.org/abs/2109.02614)\
+Evan Casey, Víctor Pérez, Zhuoru Li, Harry Teitelman, Nick Boyajian, Tim Pulver, Mike Manh, William Grisaitis\
+_ICCV 2021_
+
 [Improved Automatic Colorization by Optimal Pre-colorization](https://dl.acm.org/doi/abs/10.1145/3588028.3603669)\
 Taiki Watanabe, Seitaro Shinagawa, Takuya Funatomi, Akinobu Maejima, Yasuhiro Mukaigawa, Satoshi Nakamura, Hiroyuki Kubo\
 _SIGGRAPH Posters 2023_
